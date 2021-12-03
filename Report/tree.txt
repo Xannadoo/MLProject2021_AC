@@ -1,278 +1,422 @@
 Depth: 0
-Node Gini: 0.73
+Node Gini: 0.7355524525922255
 Attribute: Ba (7)
 Threshold: 0.4
-Classes: [ 0 39 43  8  0  7  4 18]
+Classes: [ 0 49 53 12  0  9  6 20]
 No classes: 6
 Node classification: 2
 Has children: True
 -----------------------
 Depth: 1
-  Node Gini: 0.66
+  Node Gini: 0.67919921875
   Attribute: Al (3)
   Threshold: 1.42
-  Classes: [ 0 39 42  8  0  6  4  1]
+  Classes: [ 0 48 52 12  0  8  6  2]
   No classes: 6
   Node classification: 2
   Has children: True
   -----------------------
 Depth: 2
-    Node Gini: 0.571
-    Attribute: Si (4)
-    Threshold: 72.25
-    Classes: [ 0 34 17  7  0  0  1  0]
-    No classes: 4
+    Node Gini: 0.611875
+    Attribute: Ca (6)
+    Threshold: 10.48
+    Classes: [ 0 43 23 10  0  1  2  1]
+    No classes: 6
     Node classification: 1
     Has children: True
     -----------------------
 Depth: 3
-      Node Gini: 0.153
+      Node Gini: 0.5679012345679013
       Attribute: Mg (2)
-      Threshold: 3.875
-      Classes: [ 0 11  0  1  0  0  0  0]
-      No classes: 2
+      Threshold: 3.865
+      Classes: [ 0 43 17 10  0  0  1  1]
+      No classes: 5
       Node classification: 1
       Has children: True
       -----------------------
 Depth: 4
-        Node Gini: 0.0
+        Node Gini: 0.5319670305190465
         Attribute: RI (0)
-        Threshold: 1.5195
-        Classes: [ 0 11  0  0  0  0  0  0]
-        No classes: 1
-        Node classification: 1
-        Has children: False
-        -----------------------
-Depth: 4
-        Node Gini: 0
-        Attribute: 0 ()
-        Threshold: 0
-        Classes: [0 0 0 1 0 0 0 0]
-        No classes: 1
-        Node classification: 3
-        Has children: False
-        -----------------------
-Depth: 3
-      Node Gini: 0.613
-      Attribute: Mg (2)
-      Threshold: 3.75
-      Classes: [ 0 23 17  6  0  0  1  0]
-      No classes: 4
-      Node classification: 1
-      Has children: True
-      -----------------------
-Depth: 4
-        Node Gini: 0.591
-        Attribute: Al (3)
-        Threshold: 1.115
-        Classes: [ 0 23 11  6  0  0  1  0]
-        No classes: 4
+        Threshold: 1.51707
+        Classes: [ 0 43 13  9  0  0  1  1]
+        No classes: 5
         Node classification: 1
         Has children: True
         -----------------------
 Depth: 5
-          Node Gini: 0.612
-          Attribute: Ca (6)
-          Threshold: 8.945
-          Classes: [0 1 6 3 0 0 1 0]
-          No classes: 4
-          Node classification: 2
-          Has children: True
-          -----------------------
-Depth: 6
-            Node Gini: 0.667
-            Attribute: Ca (6)
-            Threshold: 8.505
-            Classes: [0 1 1 3 0 0 1 0]
-            No classes: 4
-            Node classification: 3
-            Has children: True
-            -----------------------
-Depth: 7
-              Node Gini: 0.667
-              Attribute: RI (0)
-              Threshold: 1.5145
-              Classes: [0 1 1 0 0 0 1 0]
-              No classes: 3
-              Node classification: 1
-              Has children: True
-              -----------------------
-Depth: 8
-                Node Gini: 0
-                Attribute: 0 ()
-                Threshold: 0
-                Classes: [0 0 0 0 0 0 1 0]
-                No classes: 1
-                Node classification: 6
-                Has children: False
-                -----------------------
-Depth: 8
-                Node Gini: 0.5
-                Attribute: RI (0)
-                Threshold: 1.5185
-                Classes: [0 1 1 0 0 0 0 0]
-                No classes: 2
-                Node classification: 1
-                Has children: True
-                -----------------------
-Depth: 9
-                  Node Gini: 0
-                  Attribute: 0 ()
-                  Threshold: 0
-                  Classes: [0 1 0 0 0 0 0 0]
-                  No classes: 1
-                  Node classification: 1
-                  Has children: False
-                  -----------------------
-Depth: 9
-                  Node Gini: 0
-                  Attribute: 0 ()
-                  Threshold: 0
-                  Classes: [0 0 1 0 0 0 0 0]
-                  No classes: 1
-                  Node classification: 2
-                  Has children: False
-                  -----------------------
-Depth: 7
-              Node Gini: 0.0
-              Attribute: RI (0)
-              Threshold: 1.5185
-              Classes: [0 0 0 3 0 0 0 0]
-              No classes: 1
-              Node classification: 3
-              Has children: False
-              -----------------------
-Depth: 6
-            Node Gini: 0.0
-            Attribute: RI (0)
-            Threshold: 1.52
-            Classes: [0 0 5 0 0 0 0 0]
-            No classes: 1
-            Node classification: 2
-            Has children: False
-            -----------------------
-Depth: 5
-          Node Gini: 0.424
+          Node Gini: 0.6776859504132231
           Attribute: RI (0)
-          Threshold: 1.5175
-          Classes: [ 0 22  5  3  0  0  0  0]
-          No classes: 3
-          Node classification: 1
+          Threshold: 1.51601
+          Classes: [0 2 3 5 0 0 1 0]
+          No classes: 4
+          Node classification: 3
           Has children: True
           -----------------------
 Depth: 6
-            Node Gini: 0.661
-            Attribute: Ca (6)
-            Threshold: 8.435
-            Classes: [0 4 4 3 0 0 0 0]
-            No classes: 3
-            Node classification: 1
-            Has children: True
-            -----------------------
-Depth: 7
-              Node Gini: 0.32
-              Attribute: Na (1)
-              Threshold: 13.65
-              Classes: [0 4 1 0 0 0 0 0]
-              No classes: 2
-              Node classification: 1
-              Has children: True
-              -----------------------
-Depth: 8
-                Node Gini: 0.0
-                Attribute: RI (0)
-                Threshold: 1.514
-                Classes: [0 4 0 0 0 0 0 0]
-                No classes: 1
-                Node classification: 1
-                Has children: False
-                -----------------------
-Depth: 8
-                Node Gini: 0
-                Attribute: 0 ()
-                Threshold: 0
-                Classes: [0 0 1 0 0 0 0 0]
-                No classes: 1
-                Node classification: 2
-                Has children: False
-                -----------------------
-Depth: 7
-              Node Gini: 0.5
-              Attribute: Ca (6)
-              Threshold: 8.59
-              Classes: [0 0 3 3 0 0 0 0]
-              No classes: 2
-              Node classification: 2
-              Has children: True
-              -----------------------
-Depth: 8
-                Node Gini: 0.0
-                Attribute: RI (0)
-                Threshold: 1.5165
-                Classes: [0 0 0 3 0 0 0 0]
-                No classes: 1
-                Node classification: 3
-                Has children: False
-                -----------------------
-Depth: 8
-                Node Gini: 0.0
-                Attribute: Na (1)
-                Threshold: 12.57
-                Classes: [0 0 3 0 0 0 0 0]
-                No classes: 1
-                Node classification: 2
-                Has children: False
-                -----------------------
-Depth: 6
-            Node Gini: 0.1
-            Attribute: Fe (8)
-            Threshold: 0.325
-            Classes: [ 0 18  1  0  0  0  0  0]
+            Node Gini: 0.4444444444444445
+            Attribute: RI (0)
+            Threshold: 1.51165
+            Classes: [0 2 0 0 0 0 1 0]
             No classes: 2
             Node classification: 1
             Has children: True
             -----------------------
 Depth: 7
+              Node Gini: 0
+              Attribute: 0 ()
+              Threshold: 0
+              Classes: [0 0 0 0 0 0 1 0]
+              No classes: 1
+              Node classification: 6
+              Has children: False
+              -----------------------
+Depth: 7
               Node Gini: 0.0
               Attribute: RI (0)
-              Threshold: 1.5185
-              Classes: [ 0 18  0  0  0  0  0  0]
+              Threshold: 1.51402
+              Classes: [0 2 0 0 0 0 0 0]
               No classes: 1
               Node classification: 1
               Has children: False
               -----------------------
+Depth: 6
+            Node Gini: 0.46875
+            Attribute: Al (3)
+            Threshold: 1.27
+            Classes: [0 0 3 5 0 0 0 0]
+            No classes: 2
+            Node classification: 3
+            Has children: True
+            -----------------------
 Depth: 7
-              Node Gini: 0
-              Attribute: 0 ()
-              Threshold: 0
-              Classes: [0 0 1 0 0 0 0 0]
-              No classes: 1
+              Node Gini: 0.375
+              Attribute: Si (4)
+              Threshold: 72.99000000000001
+              Classes: [0 0 3 1 0 0 0 0]
+              No classes: 2
               Node classification: 2
+              Has children: True
+              -----------------------
+Depth: 8
+                Node Gini: 0.0
+                Attribute: RI (0)
+                Threshold: 1.516365
+                Classes: [0 0 3 0 0 0 0 0]
+                No classes: 1
+                Node classification: 2
+                Has children: False
+                -----------------------
+Depth: 8
+                Node Gini: 0
+                Attribute: 0 ()
+                Threshold: 0
+                Classes: [0 0 0 1 0 0 0 0]
+                No classes: 1
+                Node classification: 3
+                Has children: False
+                -----------------------
+Depth: 7
+              Node Gini: 0.0
+              Attribute: RI (0)
+              Threshold: 1.5164900000000001
+              Classes: [0 0 0 4 0 0 0 0]
+              No classes: 1
+              Node classification: 3
+              Has children: False
+              -----------------------
+Depth: 5
+          Node Gini: 0.42665816326530615
+          Attribute: Fe (8)
+          Threshold: 0.11499999999999999
+          Classes: [ 0 41 10  4  0  0  0  1]
+          No classes: 4
+          Node classification: 1
+          Has children: True
+          -----------------------
+Depth: 6
+            Node Gini: 0.2629387269482451
+            Attribute: Mg (2)
+            Threshold: 3.635
+            Classes: [ 0 35  3  2  0  0  0  1]
+            No classes: 4
+            Node classification: 1
+            Has children: True
+            -----------------------
+Depth: 7
+              Node Gini: 0.07680000000000003
+              Attribute: RI (0)
+              Threshold: 1.523075
+              Classes: [ 0 24  0  0  0  0  0  1]
+              No classes: 2
+              Node classification: 1
+              Has children: True
+              -----------------------
+Depth: 8
+                Node Gini: 0.0
+                Attribute: RI (0)
+                Threshold: 1.5173100000000002
+                Classes: [ 0 24  0  0  0  0  0  0]
+                No classes: 1
+                Node classification: 1
+                Has children: False
+                -----------------------
+Depth: 8
+                Node Gini: 0
+                Attribute: 0 ()
+                Threshold: 0
+                Classes: [0 0 0 0 0 0 0 1]
+                No classes: 1
+                Node classification: 7
+                Has children: False
+                -----------------------
+Depth: 7
+              Node Gini: 0.4765625
+              Attribute: Mg (2)
+              Threshold: 3.665
+              Classes: [ 0 11  3  2  0  0  0  0]
+              No classes: 3
+              Node classification: 1
+              Has children: True
+              -----------------------
+Depth: 8
+                Node Gini: 0.0
+                Attribute: RI (0)
+                Threshold: 1.5177399999999999
+                Classes: [0 0 0 2 0 0 0 0]
+                No classes: 1
+                Node classification: 3
+                Has children: False
+                -----------------------
+Depth: 8
+                Node Gini: 0.33673469387755106
+                Attribute: Ca (6)
+                Threshold: 8.61
+                Classes: [ 0 11  3  0  0  0  0  0]
+                No classes: 2
+                Node classification: 1
+                Has children: True
+                -----------------------
+Depth: 9
+                  Node Gini: 0.48
+                  Attribute: RI (0)
+                  Threshold: 1.5178850000000002
+                  Classes: [0 2 3 0 0 0 0 0]
+                  No classes: 2
+                  Node classification: 2
+                  Has children: True
+                  -----------------------
+Depth: 10
+                    Node Gini: 0.0
+                    Attribute: RI (0)
+                    Threshold: 1.5175999999999998
+                    Classes: [0 2 0 0 0 0 0 0]
+                    No classes: 1
+                    Node classification: 1
+                    Has children: False
+                    -----------------------
+Depth: 10
+                    Node Gini: 0.0
+                    Attribute: RI (0)
+                    Threshold: 1.518275
+                    Classes: [0 0 3 0 0 0 0 0]
+                    No classes: 1
+                    Node classification: 2
+                    Has children: False
+                    -----------------------
+Depth: 9
+                  Node Gini: 0.0
+                  Attribute: RI (0)
+                  Threshold: 1.51875
+                  Classes: [0 9 0 0 0 0 0 0]
+                  No classes: 1
+                  Node classification: 1
+                  Has children: False
+                  -----------------------
+Depth: 6
+            Node Gini: 0.6044444444444445
+            Attribute: Al (3)
+            Threshold: 1.255
+            Classes: [0 6 7 2 0 0 0 0]
+            No classes: 3
+            Node classification: 2
+            Has children: True
+            -----------------------
+Depth: 7
+              Node Gini: 0.5694444444444444
+              Attribute: RI (0)
+              Threshold: 1.5189249999999999
+              Classes: [0 3 7 2 0 0 0 0]
+              No classes: 3
+              Node classification: 2
+              Has children: True
+              -----------------------
+Depth: 8
+                Node Gini: 0.21875
+                Attribute: RI (0)
+                Threshold: 1.51796
+                Classes: [0 1 7 0 0 0 0 0]
+                No classes: 2
+                Node classification: 2
+                Has children: True
+                -----------------------
+Depth: 9
+                  Node Gini: 0.5
+                  Attribute: RI (0)
+                  Threshold: 1.517645
+                  Classes: [0 1 1 0 0 0 0 0]
+                  No classes: 2
+                  Node classification: 1
+                  Has children: True
+                  -----------------------
+Depth: 10
+                    Node Gini: 0
+                    Attribute: 0 ()
+                    Threshold: 0
+                    Classes: [0 0 1 0 0 0 0 0]
+                    No classes: 1
+                    Node classification: 2
+                    Has children: False
+                    -----------------------
+Depth: 10
+                    Node Gini: 0
+                    Attribute: 0 ()
+                    Threshold: 0
+                    Classes: [0 1 0 0 0 0 0 0]
+                    No classes: 1
+                    Node classification: 1
+                    Has children: False
+                    -----------------------
+Depth: 9
+                  Node Gini: 0.0
+                  Attribute: RI (0)
+                  Threshold: 1.51813
+                  Classes: [0 0 6 0 0 0 0 0]
+                  No classes: 1
+                  Node classification: 2
+                  Has children: False
+                  -----------------------
+Depth: 8
+                Node Gini: 0.5
+                Attribute: Ca (6)
+                Threshold: 9.495000000000001
+                Classes: [0 2 0 2 0 0 0 0]
+                No classes: 2
+                Node classification: 1
+                Has children: True
+                -----------------------
+Depth: 9
+                  Node Gini: 0.0
+                  Attribute: RI (0)
+                  Threshold: 1.520725
+                  Classes: [0 0 0 2 0 0 0 0]
+                  No classes: 1
+                  Node classification: 3
+                  Has children: False
+                  -----------------------
+Depth: 9
+                  Node Gini: 0.0
+                  Attribute: RI (0)
+                  Threshold: 1.52236
+                  Classes: [0 2 0 0 0 0 0 0]
+                  No classes: 1
+                  Node classification: 1
+                  Has children: False
+                  -----------------------
+Depth: 7
+              Node Gini: 0.0
+              Attribute: RI (0)
+              Threshold: 1.51758
+              Classes: [0 3 0 0 0 0 0 0]
+              No classes: 1
+              Node classification: 1
               Has children: False
               -----------------------
 Depth: 4
+        Node Gini: 0.32
+        Attribute: RI (0)
+        Threshold: 1.5198749999999999
+        Classes: [0 0 4 1 0 0 0 0]
+        No classes: 2
+        Node classification: 2
+        Has children: True
+        -----------------------
+Depth: 5
+          Node Gini: 0.0
+          Attribute: RI (0)
+          Threshold: 1.5182099999999998
+          Classes: [0 0 4 0 0 0 0 0]
+          No classes: 1
+          Node classification: 2
+          Has children: False
+          -----------------------
+Depth: 5
+          Node Gini: 0
+          Attribute: 0 ()
+          Threshold: 0
+          Classes: [0 0 0 1 0 0 0 0]
+          No classes: 1
+          Node classification: 3
+          Has children: False
+          -----------------------
+Depth: 3
+      Node Gini: 0.40625
+      Attribute: RI (0)
+      Threshold: 1.521325
+      Classes: [0 0 6 0 0 1 1 0]
+      No classes: 3
+      Node classification: 2
+      Has children: True
+      -----------------------
+Depth: 4
+        Node Gini: 0.5
+        Attribute: RI (0)
+        Threshold: 1.52006
+        Classes: [0 0 0 0 0 1 1 0]
+        No classes: 2
+        Node classification: 5
+        Has children: True
+        -----------------------
+Depth: 5
+          Node Gini: 0
+          Attribute: 0 ()
+          Threshold: 0
+          Classes: [0 0 0 0 0 0 1 0]
+          No classes: 1
+          Node classification: 6
+          Has children: False
+          -----------------------
+Depth: 5
+          Node Gini: 0
+          Attribute: 0 ()
+          Threshold: 0
+          Classes: [0 0 0 0 0 1 0 0]
+          No classes: 1
+          Node classification: 5
+          Has children: False
+          -----------------------
+Depth: 4
         Node Gini: 0.0
-        Attribute: Na (1)
-        Threshold: 13.12
+        Attribute: RI (0)
+        Threshold: 1.5231599999999998
         Classes: [0 0 6 0 0 0 0 0]
         No classes: 1
         Node classification: 2
         Has children: False
         -----------------------
 Depth: 2
-    Node Gini: 0.585
+    Node Gini: 0.59375
     Attribute: Mg (2)
-    Threshold: 1.985
-    Classes: [ 0  5 25  1  0  6  3  1]
+    Threshold: 1.9849999999999999
+    Classes: [ 0  5 29  2  0  7  4  1]
     No classes: 6
     Node classification: 2
     Has children: True
     -----------------------
 Depth: 3
-      Node Gini: 0.375
+      Node Gini: 0.42000000000000004
       Attribute: Na (1)
       Threshold: 13.795
-      Classes: [0 0 0 0 0 6 2 0]
+      Classes: [0 0 0 0 0 7 3 0]
       No classes: 2
       Node classification: 5
       Has children: True
@@ -280,8 +424,8 @@ Depth: 3
 Depth: 4
         Node Gini: 0.0
         Attribute: RI (0)
-        Threshold: 1.515
-        Classes: [0 0 0 0 0 6 0 0]
+        Threshold: 1.51491
+        Classes: [0 0 0 0 0 7 0 0]
         No classes: 1
         Node classification: 5
         Has children: False
@@ -289,18 +433,261 @@ Depth: 4
 Depth: 4
         Node Gini: 0.0
         Attribute: RI (0)
-        Threshold: 1.516
-        Classes: [0 0 0 0 0 0 2 0]
+        Threshold: 1.515935
+        Classes: [0 0 0 0 0 0 3 0]
         No classes: 1
         Node classification: 6
         Has children: False
         -----------------------
 Depth: 3
-      Node Gini: 0.4
+      Node Gini: 0.39612188365650963
       Attribute: RI (0)
-      Threshold: 1.5215
-      Classes: [ 0  5 25  1  0  0  1  1]
+      Threshold: 1.52164
+      Classes: [ 0  5 29  2  0  0  1  1]
       No classes: 5
       Node classification: 2
       Has children: True
+      -----------------------
+Depth: 4
+        Node Gini: 0.3637691745799854
+        Attribute: K (5)
+        Threshold: 0.035
+        Classes: [ 0  5 29  2  0  0  1  0]
+        No classes: 4
+        Node classification: 2
+        Has children: True
+        -----------------------
+Depth: 5
+          Node Gini: 0
+          Attribute: 0 ()
+          Threshold: 0
+          Classes: [0 0 0 0 0 0 1 0]
+          No classes: 1
+          Node classification: 6
+          Has children: False
+          -----------------------
+Depth: 5
+          Node Gini: 0.3287037037037037
+          Attribute: Na (1)
+          Threshold: 12.835
+          Classes: [ 0  5 29  2  0  0  0  0]
+          No classes: 3
+          Node classification: 2
+          Has children: True
+          -----------------------
+Depth: 6
+            Node Gini: 0.5
+            Attribute: Fe (8)
+            Threshold: 0.095
+            Classes: [0 3 3 0 0 0 0 0]
+            No classes: 2
+            Node classification: 1
+            Has children: True
+            -----------------------
+Depth: 7
+              Node Gini: 0.0
+              Attribute: RI (0)
+              Threshold: 1.51632
+              Classes: [0 0 3 0 0 0 0 0]
+              No classes: 1
+              Node classification: 2
+              Has children: False
+              -----------------------
+Depth: 7
+              Node Gini: 0.0
+              Attribute: RI (0)
+              Threshold: 1.515835
+              Classes: [0 3 0 0 0 0 0 0]
+              No classes: 1
+              Node classification: 1
+              Has children: False
+              -----------------------
+Depth: 6
+            Node Gini: 0.24
+            Attribute: K (5)
+            Threshold: 0.605
+            Classes: [ 0  2 26  2  0  0  0  0]
+            No classes: 3
+            Node classification: 2
+            Has children: True
+            -----------------------
+Depth: 7
+              Node Gini: 0.44897959183673475
+              Attribute: Al (3)
+              Threshold: 1.75
+              Classes: [ 0  2 10  2  0  0  0  0]
+              No classes: 3
+              Node classification: 2
+              Has children: True
+              -----------------------
+Depth: 8
+                Node Gini: 0.37869822485207105
+                Attribute: RI (0)
+                Threshold: 1.51798
+                Classes: [ 0  2 10  1  0  0  0  0]
+                No classes: 3
+                Node classification: 2
+                Has children: True
+                -----------------------
+Depth: 9
+                  Node Gini: 0.5714285714285714
+                  Attribute: RI (0)
+                  Threshold: 1.51604
+                  Classes: [0 2 4 1 0 0 0 0]
+                  No classes: 3
+                  Node classification: 2
+                  Has children: True
+                  -----------------------
+Depth: 10
+                    Node Gini: 0.0
+                    Attribute: RI (0)
+                    Threshold: 1.51581
+                    Classes: [0 0 3 0 0 0 0 0]
+                    No classes: 1
+                    Node classification: 2
+                    Has children: False
+                    -----------------------
+Depth: 10
+                    Node Gini: 0.625
+                    Attribute: K (5)
+                    Threshold: 0.55
+                    Classes: [0 2 1 1 0 0 0 0]
+                    No classes: 3
+                    Node classification: 1
+                    Has children: True
+                    -----------------------
+Depth: 11
+                      Node Gini: 0.0
+                      Attribute: RI (0)
+                      Threshold: 1.516765
+                      Classes: [0 2 0 0 0 0 0 0]
+                      No classes: 1
+                      Node classification: 1
+                      Has children: False
+                      -----------------------
+Depth: 11
+                      Node Gini: 0.5
+                      Attribute: RI (0)
+                      Threshold: 1.5174150000000002
+                      Classes: [0 0 1 1 0 0 0 0]
+                      No classes: 2
+                      Node classification: 2
+                      Has children: True
+                      -----------------------
+Depth: 12
+                        Node Gini: 0
+                        Attribute: 0 ()
+                        Threshold: 0
+                        Classes: [0 0 1 0 0 0 0 0]
+                        No classes: 1
+                        Node classification: 2
+                        Has children: False
+                        -----------------------
+Depth: 12
+                        Node Gini: 0
+                        Attribute: 0 ()
+                        Threshold: 0
+                        Classes: [0 0 0 1 0 0 0 0]
+                        No classes: 1
+                        Node classification: 3
+                        Has children: False
+                        -----------------------
+Depth: 9
+                  Node Gini: 0.0
+                  Attribute: RI (0)
+                  Threshold: 1.518055
+                  Classes: [0 0 6 0 0 0 0 0]
+                  No classes: 1
+                  Node classification: 2
+                  Has children: False
+                  -----------------------
+Depth: 8
+                Node Gini: 0
+                Attribute: 0 ()
+                Threshold: 0
+                Classes: [0 0 0 1 0 0 0 0]
+                No classes: 1
+                Node classification: 3
+                Has children: False
+                -----------------------
+Depth: 7
+              Node Gini: 0.0
+              Attribute: RI (0)
+              Threshold: 1.515005
+              Classes: [ 0  0 16  0  0  0  0  0]
+              No classes: 1
+              Node classification: 2
+              Has children: False
+              -----------------------
+Depth: 4
+        Node Gini: 0
+        Attribute: 0 ()
+        Threshold: 0
+        Classes: [0 0 0 0 0 0 0 1]
+        No classes: 1
+        Node classification: 7
+        Has children: False
+        -----------------------
+Depth: 1
+  Node Gini: 0.2585034013605442
+  Attribute: Si (4)
+  Threshold: 70.16
+  Classes: [ 0  1  1  0  0  1  0 18]
+  No classes: 4
+  Node classification: 7
+  Has children: True
+  -----------------------
+Depth: 2
+    Node Gini: 0.5
+    Attribute: RI (0)
+    Threshold: 1.5231949999999999
+    Classes: [0 0 1 0 0 1 0 0]
+    No classes: 2
+    Node classification: 2
+    Has children: True
+    -----------------------
+Depth: 3
+      Node Gini: 0
+      Attribute: 0 ()
+      Threshold: 0
+      Classes: [0 0 0 0 0 1 0 0]
+      No classes: 1
+      Node classification: 5
+      Has children: False
+      -----------------------
+Depth: 3
+      Node Gini: 0
+      Attribute: 0 ()
+      Threshold: 0
+      Classes: [0 0 1 0 0 0 0 0]
+      No classes: 1
+      Node classification: 2
+      Has children: False
+      -----------------------
+Depth: 2
+    Node Gini: 0.09972299168975074
+    Attribute: Mg (2)
+    Threshold: 3.42
+    Classes: [ 0  1  0  0  0  0  0 18]
+    No classes: 2
+    Node classification: 7
+    Has children: True
+    -----------------------
+Depth: 3
+      Node Gini: 0.0
+      Attribute: RI (0)
+      Threshold: 1.5132249999999998
+      Classes: [ 0  0  0  0  0  0  0 18]
+      No classes: 1
+      Node classification: 7
+      Has children: False
+      -----------------------
+Depth: 3
+      Node Gini: 0
+      Attribute: 0 ()
+      Threshold: 0
+      Classes: [0 1 0 0 0 0 0 0]
+      No classes: 1
+      Node classification: 1
+      Has children: False
       -----------------------
